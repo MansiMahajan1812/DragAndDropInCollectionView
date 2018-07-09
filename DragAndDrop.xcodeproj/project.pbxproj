@@ -14,6 +14,7 @@
 		B146868220EBB2430001D2F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B146868020EBB2430001D2F2 /* LaunchScreen.storyboard */; };
 		B146868D20EBB2430001D2F2 /* DragAndDropTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B146868C20EBB2430001D2F2 /* DragAndDropTests.swift */; };
 		B146869820EBB2430001D2F2 /* DragAndDropUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B146869720EBB2430001D2F2 /* DragAndDropUITests.swift */; };
+		B14686A620EBB2D30001D2F2 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14686A520EBB2D30001D2F2 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B146869320EBB2430001D2F2 /* DragAndDropUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DragAndDropUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B146869720EBB2430001D2F2 /* DragAndDropUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragAndDropUITests.swift; sourceTree = "<group>"; };
 		B146869920EBB2430001D2F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B14686A520EBB2D30001D2F2 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B146867E20EBB2430001D2F2 /* Assets.xcassets */,
 				B146868020EBB2430001D2F2 /* LaunchScreen.storyboard */,
 				B146868320EBB2430001D2F2 /* Info.plist */,
+				B14686A520EBB2D30001D2F2 /* CollectionViewCell.swift */,
 			);
 			path = DragAndDrop;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				B146867A20EBB2430001D2F2 /* ViewController.swift in Sources */,
 				B146867820EBB2430001D2F2 /* AppDelegate.swift in Sources */,
+				B14686A620EBB2D30001D2F2 /* CollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
